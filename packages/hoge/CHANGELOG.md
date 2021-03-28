@@ -1,3 +1,13 @@
+## @miyauci/test-hoge [1.1.1](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-hoge@1.1.0...@miyauci/test-hoge@1.1.1) (2021-03-28)
+
+
+
+
+
+### Dependencies
+
+* **@miyauci/test-core-module:** upgraded to 1.1.0
+
 # @miyauci/test-hoge [1.1.0](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-hoge@1.0.0...@miyauci/test-hoge@1.1.0) (2021-03-28)
 
 
