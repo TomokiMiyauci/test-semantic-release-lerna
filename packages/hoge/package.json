@@ -1,6 +1,6 @@
 {
   "name": "@miyauci/test-hoge",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "private": false,
   "main": "index.js",
   "license": "MIT",
@@ -11,6 +11,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@miyauci/test-core-module": "1.2.0"
+    "@miyauci/test-core-module": "1.2.1"
   }
 }
