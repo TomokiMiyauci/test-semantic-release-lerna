@@ -1,3 +1,10 @@
+# @miyauci/test-hoge [1.1.0](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-hoge@1.0.0...@miyauci/test-hoge@1.1.0) (2021-03-28)
+
+
+### Features
+
+* **hoge:** add dep ([2ce2f0b](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/2ce2f0b45aca0653c731034e100fd218a773f3da))
+
 # @miyauci/test-hoge 1.0.0 (2021-03-28)
 
 
