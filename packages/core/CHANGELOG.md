@@ -1,3 +1,9 @@
+# [v1.3.3](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-hoge@1.3.2...@miyauci/test-hoge@1.3.3) (2021-03-28)
+
+
+
+## [1.3.3](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-core-module@1.3.2...@miyauci/test-core-module@1.3.3) (2021-03-28)
+
 # [v1.3.2](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-hoge@1.3.1...@miyauci/test-hoge@1.3.2) (2021-03-28)
 
 
