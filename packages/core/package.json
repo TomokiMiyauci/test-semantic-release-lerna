@@ -1,0 +1,13 @@
+{
+  "name": "@miyauci/test-core-module",
+  "version": "0.0.0",
+  "private": false,
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
