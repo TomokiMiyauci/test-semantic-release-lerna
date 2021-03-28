@@ -1,1 +1,1 @@
-export const hoge = () => console.log(222)
+export const hoge = () => console.log(2222)
