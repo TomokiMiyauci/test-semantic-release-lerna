@@ -1,1 +1,1 @@
-console.log(123)
+exports.hoge = () => console.log(111)
