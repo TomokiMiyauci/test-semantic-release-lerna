@@ -1,3 +1,14 @@
+# [v1.2.5](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-hoge@1.2.4...@miyauci/test-hoge@1.2.5) (2021-03-28)
+
+## 🐛 Bug Fixes
+- [`80255f9`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/80255f9)  (core) fa 
+
+
+
+### Dependencies
+
+* **@miyauci/test-core-module:** upgraded to 1.2.5
+
 # [v1.2.4](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-hoge@1.2.3...@miyauci/test-hoge@1.2.4) (2021-03-28)
 
 ## 🐛 Bug Fixes
