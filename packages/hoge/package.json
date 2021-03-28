@@ -9,5 +9,8 @@
   ],
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@miyauci/test-core-module": "^1.0.0"
   }
 }
