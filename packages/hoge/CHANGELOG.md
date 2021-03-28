@@ -1,3 +1,20 @@
+# [v1.3.0](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-hoge@1.2.5...@miyauci/test-hoge@1.3.0) (2021-03-28)
+
+## ✨ New Features
+- [`5350aef`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/5350aef)  (core) fsf 
+
+
+
+# [1.3.0](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-hoge@1.2.5...@miyauci/test-hoge@1.3.0) (2021-03-28)
+
+
+
+
+
+### Dependencies
+
+* **@miyauci/test-core-module:** upgraded to 1.3.0
+
 # [v1.2.5](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-hoge@1.2.4...@miyauci/test-hoge@1.2.5) (2021-03-28)
 
 ## 🐛 Bug Fixes
