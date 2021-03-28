@@ -1,3 +1,14 @@
+# [v1.3.9](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-hoge@1.3.8...@miyauci/test-hoge@1.3.9) (2021-03-28)
+
+## 🐛 Bug Fixes
+- [`e9c449c`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/e9c449c)  (core) Sd 
+
+
+
+### Dependencies
+
+* **@miyauci/test-core-module:** upgraded to 1.3.9
+
 # [v1.3.8](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-hoge@1.3.7...@miyauci/test-hoge@1.3.8) (2021-03-28)
 
 
