@@ -1,3 +1,10 @@
+# @miyauci/test-core-module [1.1.0](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-core-module@1.0.0...@miyauci/test-core-module@1.1.0) (2021-03-28)
+
+
+### Features
+
+* **core:** add ([1006e31](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/1006e3164b2f6490dc67558059341c7e0b3037cd))
+
 # @miyauci/test-core-module 1.0.0 (2021-03-28)
 
 
