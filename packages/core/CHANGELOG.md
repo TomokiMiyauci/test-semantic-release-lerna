@@ -1,3 +1,14 @@
+# Changelog
+
+# [v1.2.2](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-hoge@1.2.1...@miyauci/test-hoge@1.2.2) (2021-03-28)
+
+## 🐛 Bug Fixes
+- [`8a24e98`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/8a24e98)  (core) hog 
+
+
+
+## [1.2.2](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-core-module@1.2.1...@miyauci/test-core-module@1.2.2) (2021-03-28)
+
 # [v1.2.1](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-hoge@1.2.0...@miyauci/test-hoge@1.2.1) (2021-03-28)
 
 ## 🐛 Bug Fixes
