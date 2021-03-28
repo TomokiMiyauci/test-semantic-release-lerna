@@ -1,3 +1,10 @@
+## @testest/test-hoge [1.1.4](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@testest/test-hoge@1.1.3...@testest/test-hoge@1.1.4) (2021-03-28)
+
+
+### Bug Fixes
+
+* **hoge:** fix ([a8b1d2a](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/a8b1d2a57c05fdddbfcd6dab87dcfac4dd2c0a81))
+
 ## @testest/test-hoge [1.1.3](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@testest/test-hoge@1.1.2...@testest/test-hoge@1.1.3) (2021-03-28)
 
 
