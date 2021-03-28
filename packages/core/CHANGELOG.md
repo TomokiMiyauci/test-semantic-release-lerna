@@ -1,3 +1,12 @@
+# [v1.2.0](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-hoge@1.1.1...@miyauci/test-hoge@1.2.0) (2021-03-28)
+
+## ✨ New Features
+- [`eb86be8`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/eb86be8)  (core) Apply ts 
+
+
+
+# [1.2.0](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-core-module@1.1.0...@miyauci/test-core-module@1.2.0) (2021-03-28)
+
 # @miyauci/test-core-module [1.1.0](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-core-module@1.0.0...@miyauci/test-core-module@1.1.0) (2021-03-28)
 
 
