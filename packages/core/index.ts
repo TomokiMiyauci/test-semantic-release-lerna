@@ -1,0 +1,1 @@
+export const hoge = () => console.log(1233)
