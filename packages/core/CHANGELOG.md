@@ -1,3 +1,20 @@
+# v@miyauci/test-core-module-v1.0.0-beta.1 (2021-07-07)
+
+## ✨ New Features
+- [`eb86be8`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/eb86be8)  (core) Apply ts 
+- [`5350aef`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/5350aef)  (core) fsf 
+
+## 🐛 Bug Fixes
+- [`685e93e`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/685e93e)  (core) Add 
+- [`8a24e98`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/8a24e98)  (core) hog 
+- [`f575358`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/f575358)  (core) isjfo 
+- [`523c692`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/523c692)  (core) aaa 
+- [`0fb2ef2`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/0fb2ef2)  (core) 
+- [`93f2f60`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/93f2f60)  (core) aaa 
+- [`80255f9`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/80255f9)  (core) fa 
+- [`9c513b7`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/9c513b7)  (core) sfaf 
+- [`e9c449c`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/e9c449c)  (core) Sd
+
 # [v1.3.10](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-core-module@1.3.9...@miyauci/test-core-module@1.3.10) (2021-03-29)
 
 ## 🐛 Bug Fixes
