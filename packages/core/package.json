@@ -1,6 +1,6 @@
 {
   "name": "@miyauci/test-core-module",
-  "version": "1.0.0-beta.2",
+  "version": "1.0.0-beta.3",
   "private": false,
   "main": "index.js",
   "license": "MIT",

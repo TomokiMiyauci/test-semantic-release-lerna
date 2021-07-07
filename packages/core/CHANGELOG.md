@@ -1,3 +1,8 @@
+# [v@miyauci/test-core-module-v1.0.0-beta.3](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-core-module-v1.0.0-beta.2...@miyauci/test-core-module-v1.0.0-beta.3) (2021-07-07)
+
+## 🐛 Bug Fixes
+- [`bc119fa`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/bc119fa)   Add
+
 # [v@miyauci/test-core-module-v1.0.0-beta.2](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-core-module-v1.0.0-beta.1...@miyauci/test-core-module-v1.0.0-beta.2) (2021-07-07)
 
 ## 🐛 Bug Fixes
