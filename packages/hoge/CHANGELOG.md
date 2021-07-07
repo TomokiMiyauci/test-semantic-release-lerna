@@ -1,3 +1,8 @@
+# [v@miyauci/test-hoge-v1.0.0-beta.2](https://github.com/TomokiMiyauci/test-semantic-release-lerna/compare/@miyauci/test-hoge-v1.0.0-beta.1...@miyauci/test-hoge-v1.0.0-beta.2) (2021-07-07)
+
+## ✨ New Features
+- [`64aab09`](https://github.com/TomokiMiyauci/test-semantic-release-lerna/commit/64aab09)   Hoge
+
 # v@miyauci/test-hoge-v1.0.0-beta.1 (2021-07-07)
 
 ## ✨ New Features
