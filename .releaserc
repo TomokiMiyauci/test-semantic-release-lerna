@@ -2,7 +2,6 @@
   "extends": "semantic-release-monorepo",
   "branches": ["main", "next", {"name": "beta", "prerelease": true}],
   "plugins": [   
-      ["semantic-release-lerna", { "generateNotes": true }],
       [
       "semantic-release-gitmoji",
       {
